@@ -1,2 +1,2 @@
-# -ompetitions_proj
+# Competitions_proj
 Starter project for BD
